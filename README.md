@@ -31,7 +31,7 @@ How it differs from other apps: </br>
 -Actively user participation. </br>
 -Customizable profile.</br>
 
-Benefits:
+Benefits:</br>
 -Learning platform for the interested parties. </br>
 -Convenient access to notations. </br>
 -Sinhala song notations made accessible.</br>
