@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "894822894053",
+    "project_id": "music-notation-app",
+    "storage_bucket": "music-notation-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894822894053:android:67745e492035b14b5c070c",
+        "android_client_info": {
+          "package_name": "com.example.musicnotationapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVn1nxDlJDdgKeSwomZ3z4NZYfNaFrijM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
